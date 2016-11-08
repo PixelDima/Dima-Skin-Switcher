@@ -13,9 +13,10 @@ Web designer and developer.
 Build using : jQuery – AngularJS – CSS3 – HTML5.
 Can I use it with WordPress? Yes you can use it with any CMS.
 Dima-Skin Switcher has two deferent styles dark and light style, you can customize most of the things either by changing styles (CSS or SCSS) file.
+
 ------
 
-== FEATURES ==
+##FEATURES 
 + Two styles (dark and light style )
 + SCSS included
 + jQuery MiniColors included
