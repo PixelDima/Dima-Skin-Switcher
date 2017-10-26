@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Dima - Skin Switcher
-Plugin URI: http://codecanyon.net/item/dima-skin-switcher/7986406
+Plugin URI: http://pixeldima.com/
 Description: DIMA-SS is a powerful plugin build using jQuery and AngularJS. For web designer and developer.
-Author: Adel Tahri
+Author: PixelDima
 Version: 1.1
-Author URI: http://ma.tt/
+Author URI: http://pixeldima.com/
 */
 
 add_action( 'wp_enqueue_scripts', 'wp_dima_switcher_style', 99 );
